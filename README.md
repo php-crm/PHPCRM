@@ -132,7 +132,7 @@ Industries that benefit most:
 <img src="screenshots/tasks.png" width="100%" alt="Tasks & Follow-ups" />
 
 ### 👤 User Profile / Settings (optional)
-<img src="screenshots/profile.png" width="100%" alt="User Profile" />
+<img src="screenshots/notes.png" width="100%" alt="User Profile" />
 
 
 
