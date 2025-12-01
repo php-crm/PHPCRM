@@ -7,13 +7,15 @@
   <a href="https://www.phpcrm.com/crm-demo/"><b>👀 Live Demo</b></a> •
   <a href="https://www.phpcrm.com/contact/"><b>📩 Contact</b></a>
 </p>
-Website URL: https://www.phpcrm.com
+
 ---
 
 ## 🔥 About PHPCRM
 
 PHPCRM is a powerful web-based Customer Relationship Management (CRM) software offered in two editions —  
 **PHPCRM Open-Source (free, self-hosted)** and **PHPCRM Cloud (premium, fully hosted).**
+
+🌐 Website URL: https://www.phpcrm.com
 
 ### 🟢 PHPCRM Open-Source (Free Edition)
 Ideal for businesses and developers who want a CRM solution that is:
