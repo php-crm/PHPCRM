@@ -114,7 +114,7 @@ Industries that benefit most:
 
 ---
 
-## 📷 Screenshots (Add your images)
+## 📷 Screenshots
 screenshots/login.png
 
 
