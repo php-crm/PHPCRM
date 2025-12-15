@@ -150,21 +150,3 @@ Industries that benefit most:
 
 ### 🔐 Login Screen
 <img src="screenshots/login.png" width="100%" alt="Login Screen" />
-
-### 📊 Dashboard
-<img src="screenshots/dashboard.png" width="100%" alt="Dashboard" />
-
-### 🧲 Leads Module
-<img src="screenshots/leads.png" width="100%" alt="Leads Module" />
-
-### 👥 Customers Module
-<img src="screenshots/customers.png" width="100%" alt="Customers Module" />
-
-### 🗓 Tasks & Follow-ups
-<img src="screenshots/tasks.png" width="100%" alt="Tasks & Follow-ups" />
-
-### 👤 User Profile / Settings (optional)
-<img src="screenshots/notes.png" width="100%" alt="User Profile" />
-
-
-
