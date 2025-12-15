@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="public/media/crm-logo-white.png">
+    <img src="public/media/crm-logo.png" alt="PHPCRM Logo" width="120">
+  </picture>
+</p>
+
+
 <h1 align="center">🚀 PHPCRM — Open Source CRM Software</h1>
 <p align="center"><b>Self-hosted CRM to manage leads, customers, tasks & sales — free for commercial use.</b></p>
 
