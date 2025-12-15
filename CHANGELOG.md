@@ -1,56 +1,56 @@
-# Changelog
+# PHPCRM v8.1 — Open Source CRM Software (Latest)
 
-All notable changes to **PHPCRM** will be documented in this file.
-
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
-and this project adheres to [Semantic Versioning](https://semver.org/).
+PHPCRM v8.1 is the latest stable release of the free and open-source CRM software built with **PHP and MySQL**.  
+This update includes **performance improvements, bug fixes, and UI enhancements** to deliver a faster and smoother CRM experience.
 
 ---
 
-## [Unreleased]
+## 🚀 Features in This Release
 
-### Added
-- Initial public open-source structure
-- Installation documentation
-- Contribution guidelines
-- Security policy
-- Code of Conduct
-- MIT License
-
-### Changed
-- Improved README with professional layout and badges
-
-### Fixed
-- N/A
+- Lead Management  
+- Customer Management  
+- Tasks & Follow-ups  
+- Notes & Activity Tracking  
+- Dashboard with CRM KPIs  
+- Secure Login & Change Password  
 
 ---
 
-## [v1.0.0] - 2025-12-15
+## 🛠 Technical Highlights
 
-### Added
-- Lead management module
-- Customer management
-- Task and activity tracking
-- Basic CRM dashboard
-- User authentication and roles
-- MySQL database schema
-- PHP MVC architecture
+- Pure PHP MVC architecture (no heavy frameworks)
+- MySQL / MariaDB database support
+- Bootstrap 5 responsive UI
+- 100% customizable source code
 
 ---
 
-## Versioning
+## 📌 Installation
 
-- **MAJOR** version for incompatible API changes
-- **MINOR** version for backward-compatible functionality
-- **PATCH** version for backward-compatible bug fixes
+1. Upload files to your hosting or local server (XAMPP / WAMP)
+2. Create a MySQL database
+3. Import the SQL file:
+   ```
+   /database/phpcrm_install.sql
+   ```
+4. Update database credentials in:
+   ```
+   /app/config/database.php
+   ```
+5. Access the CRM via:
+   ```
+   http://localhost/your-folder/public/
+   ```
 
 ---
 
-## Notes
+## 🆓 License
 
-- Older versions may not receive security updates.
-- Always upgrade to the latest stable release.
+MIT Open Source License — free to modify and use commercially.
+
+⚠ **Important Notice:**  
+Reselling PHPCRM as a **standalone CRM software product** is not allowed.
 
 ---
 
-Thank you for using **PHPCRM** 🚀
+Thank you for using **PHPCRM v8.1** 🚀
